@@ -4,8 +4,6 @@
 Perform descriptive modeling and clustering of textual data
 
 ## Instructions
-Default Kmeans.jar file uses Kmeans, and KmeansPP.jar file uses Kmeans++.
-Run command `java -jar Kmeans.jar` / `java -jar KmeamsPP.jar` on terminal under the directory where jar file sites.
 Topics per cluster folder and confusion matrix are generated to current directory.
 Two plots are generated and pop up while executing the program.
 
