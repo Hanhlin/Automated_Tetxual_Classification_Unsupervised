@@ -1,0 +1,9 @@
+Folder: C1
+[ground, pilot, police, safety, airline]
+
+Folder: C4
+[campaign, vaccine, hoof, mouth, disease]
+
+Folder: C7
+[loan, cent, bank, mortgage, rate]
+
