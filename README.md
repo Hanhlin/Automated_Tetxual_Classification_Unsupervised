@@ -1,6 +1,4 @@
 # TextAnalytics_Unsupervised
-
-## Goal
 Perform descriptive modeling and clustering of textual data
 
 ## Instructions
