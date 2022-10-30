@@ -5,6 +5,7 @@ Perform descriptive modeling and clustering of textual data
 
 ## Instructions
 Topics per cluster folder and confusion matrix are generated to current directory.
+
 Two plots are generated and pop up while executing the program.
 
 ## Sources
