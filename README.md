@@ -1,4 +1,4 @@
-# TextAnalytics_Unsupervised
+# Automated_Tetxual_Classification_Unsupervised
 Perform descriptive modeling and clustering of textual data
 
 ## Instructions
